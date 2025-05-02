@@ -1,0 +1,19 @@
+citation(auto = meta)
+
+bibentry(bibtype = "Article",
+         title = "Quantile regression neural networks: implementation in R and application to precipitation downscaling",
+         author = person(c("Alex", "J."), "Cannon"),
+         year = "2011",
+         journal = "Computers \\& Geosciences",
+         volume = "37",
+         pages = "1277-1284",
+         doi = "10.1007/b98882")
+
+bibentry(bibtype = "Article",
+         title = "Non-crossing nonlinear regression quantiles by monotone composite quantile regression neural network, with application to rainfall extremes",
+         author = person(c("Alex", "J."), "Cannon"),
+         year = "2018",
+         journal = "Stochastic Environmental Research and Risk Assessment",
+         volume = "32(11)",
+         pages = "3207-3225",
+         doi = "10.1007/s00477-018-1573-6")
